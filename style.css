@@ -18,7 +18,7 @@
 
 @media (prefers-reduced-motion) {
   :root {
-    --anispeed: 50s;
+    --anispeed: 100s;
   }
 }
 
